@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+}
+
+.card{
+    height: auto;
+    text-align: center;
+    font-size: 70px;
+    font-family: cursive;
+    padding: 50px;
+    background-color: floralwhite;
+}
+
+.container{
+    padding-top: 20px;
+    background-color: rgb(26, 19, 27);
+}
+.heading{
+    font-size: 50px;
+    padding: 20px;
+    background-color: wheat;
+    font-family: sans-serif;
+}
